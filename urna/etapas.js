@@ -3,7 +3,7 @@ let etapas =[
   
     titulo: 'VEREADOR',
     numeros: 5,
-    candidatos:[
+    candidatos: [
        {
       numero:'38111',
       nome:'Fulano de Tal',
@@ -38,7 +38,7 @@ let etapas =[
      }, 
      {
       numero:'84',
-      nome:Zulano ,
+      nome:'Zulano' ,
       partido :'qwerty',
       vice: 'Zul',
       fotos:[
