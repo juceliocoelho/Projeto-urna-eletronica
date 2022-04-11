@@ -103,7 +103,7 @@ height:40px;
 }
 .pisca{
    animation-name: pisca;
-   animation-duration: 1s; 
+   animation-duration: 2s; 
    animation-iteration-count: infinite;     
 }
 .d-1-4{
