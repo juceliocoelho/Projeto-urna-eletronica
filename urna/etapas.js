@@ -1,4 +1,4 @@
-let etapas =[
+let etapas = [
          {
   
     titulo: 'VEREADOR',
@@ -9,7 +9,7 @@ let etapas =[
       nome:'Fulano de Tal',
       partido:'ABC',
       fotos:[
-          {url:'38111.jpg', legenda: 'Vereador', }     
+          {url:'38111.jpg', legenda: 'Vereador'}     
          ]
        } ,  
        {
@@ -20,7 +20,7 @@ let etapas =[
                 {url:'77222.jpg', legenda: 'vereador'}
             ]
           } ,  
-         ]
+        ]
    },
    {
       titulo:'PREFEITO',
