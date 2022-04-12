@@ -52,6 +52,10 @@ function atualizaInterface(){
                fotosHtml += `<div class="d-1-image"><img src="images/${candidato.fotos[i].url}" alt="" />${candidato.fotos[i].legenda}</div>`;
          }
          lateral.innerHTML = fotosHtml;
+      }else{
+         seuVotoPara.style.display = 'block'; 
+             aviso.style.display = 'block';
+             descricao.innerHTML = `<div class="aviso--grande pisca">VOTO NULO</div>` ;
       }
 }
 function clicou(n){

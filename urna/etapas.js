@@ -9,7 +9,7 @@ let etapas =[
       nome:'Fulano de Tal',
       partido:'ABC',
       fotos:[
-          {url:'38111.jpg', legenda: 'vereador', }     
+          {url:'38111.jpg', legenda: 'Vereador', }     
          ]
        } ,  
        {
